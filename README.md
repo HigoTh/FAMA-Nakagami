@@ -18,11 +18,11 @@ To run the codes, you must have:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/usuario/repo.git
+   git clone https://github.com/HigoTh/FAMA-Nakagami.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd repo/Codes
+   cd FAMA-Nakagami/Codes
    ```
 3. Run the code corresponding to the desired figure in MATLAB:
    ```matlab
